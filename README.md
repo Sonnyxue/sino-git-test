@@ -1,1 +1,2 @@
-# 菜鸟教程 Git 测试
+# 教程 Git 测试
+# Sino Test
